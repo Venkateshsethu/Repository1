@@ -37,8 +37,8 @@ public class TestAlert {
 		alert.accept();
 		
 		
-		driver.close();
-		
+		//driver.close();
+		driver.quit();
 		
 	}
 
